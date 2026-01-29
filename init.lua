@@ -4,6 +4,5 @@ minetest.register_on_mods_loaded(function()
 			walkable = false,
 			climbable = true,
 		})
-		end
 	end
 end)
