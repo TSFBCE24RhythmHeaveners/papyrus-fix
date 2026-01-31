@@ -1,4 +1,3 @@
-## Papyrus Fix ##
-Papyrus Fix fixes the Papyrus block to be climbable instead of a crappy solid block.
-## Download ##
+## Papyrus Ladders ##
+Papyrus Fix makes the Papyrus block climbable.
 To download, click Code, then click Download ZIP. 
