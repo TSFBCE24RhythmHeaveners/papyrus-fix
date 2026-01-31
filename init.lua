@@ -1,4 +1,4 @@
-core.override_item("default:papyrus",{
+minetest.override_item("default:papyrus",{
 	walkable = false,
 	climbable = true,
 })
